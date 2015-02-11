@@ -5,6 +5,7 @@
  */
 package mainrepository;
 
+import static java.lang.Math.*;  // allows you to use math objects as pi vs. Math.pi!
 /**
  *
  * @author lightbored
